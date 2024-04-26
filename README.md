@@ -14,7 +14,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=Rinko68&show_icons=true&hide=contribs,issues&hide_border=true" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rinko78&layout=compact&show_icons=true&hide_border=true" />
   </td>
-  <td width="52%"><img alt="gif" align="right" src="blob:https://www.facebook.com/c7d720ed-941d-487a-b488-c01edc1ccc5b"/></td>
+  <td width="52%"><img alt="gif" align="right" src="https://i.pinimg.com/originals/5a/16/25/5a162542bceba7391d51ac4f1cdff2af.gif"/></td>
 </tr>
 <table>
 
