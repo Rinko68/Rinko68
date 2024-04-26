@@ -1,5 +1,5 @@
 
-### HELLO, I'm Rinko68(Viet Xu) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> -  [Rinko68][website] = Software Engineer + Youtuber 🌻  
+### HELLO, I'm Rinko68 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> -  [Rinko68][website] = Software Engineer + Youtuber 🌻  
 
 
 - 🔭 Passionate about programming 
