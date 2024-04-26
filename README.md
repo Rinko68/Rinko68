@@ -2,9 +2,9 @@
 ### HELLO, I'm Rinko68(Viet Xu) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> -  [Rinko68][website] = Software Engineer + Youtuber 🌻  
 
 
-- 🔭 Passion in something ... (secret😊)
-- 💪 2021 Goals: Learning many things in Python
-- ⭐: Reading, listening, walking, running, playing piano... and blade wind😅
+- 🔭 Passionate about programming 
+- 💪 2024 Goals: Learning many things in Python
+- ⭐ Please teach me I am a beginner😅
 
 ### :zap: GitHub
 
