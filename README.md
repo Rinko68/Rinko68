@@ -6,7 +6,7 @@
 - 💪 2024 Goals: Learning many things in Python
 - ⭐ Please teach me I am a beginner😅
 
-### :zap: GitHub
+### :zap: GitHub:
 
 <table>
 <tr>
